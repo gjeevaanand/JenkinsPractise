@@ -1,0 +1,19 @@
+public class RepeatedWords {
+
+	public static void main(String[] args) {
+
+		String s = "Seeking a challenging and rewarding career in corporate organizations, work in a multidisciplinary and professional environment that envisages professional and personal growth.";
+		
+		System.out.println("Jeeva");
+		System.out.println("Sankar");
+		System.out.println("Selvi");
+		System.out.println("Singar");
+		System.out.println("Abhi");
+		
+		
+			
+		System.out.print(s);
+		
+
+	}
+}
