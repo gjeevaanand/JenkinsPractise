@@ -7,6 +7,7 @@ public class RepeatedWords {
 		System.out.println("Jeeva");
 		System.out.println("Sankar");
 		System.out.println("Selvi");
+		System.out.println("Selvi");
 		System.out.println("Singar");
 		System.out.println("Abhi");
 		
